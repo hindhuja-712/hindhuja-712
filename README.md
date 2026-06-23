@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Hindhuja
 
-<!--
-**hindhuja-712/hindhuja-712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Flutter Developer | DSA Learner  
+🌱 Passionate about building apps and improving problem-solving skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Flutter+Developer;DSA+Learner)
+
+---
+
+## 💻 Tech Stack
+- Java
+- C
+- Dart
+
+---
+
+## 🚀 Projects
+
+### 🔹 Smart Farming System
+- Developed a system to support smart agriculture  
+- Focused on improving efficiency using technology  
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=hindhuja-712&show_icons=true)
+
+---
+
+## 🔥 Current Focus
+- 📌 Data Structures & Algorithms  
+- 📌 Flutter App Development  
+
+---
+
+## 📫 Contact Me
+📧 hindhuja0712@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+Learning something new every day 🚀
