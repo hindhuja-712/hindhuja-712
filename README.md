@@ -5,7 +5,7 @@
 
 ---
 
-![Profile](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Flutter+Developer;DSA+Learner)
+![Profile](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Keep+Rocking;Live+Happily)
 
 ---
 
