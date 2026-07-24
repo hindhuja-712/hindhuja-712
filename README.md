@@ -62,7 +62,7 @@ An AI-based smart farming solution designed to support farmers with crop monitor
 - AI/ML: Python, TensorFlow, OpenCV
 - APIs: Weather API, Market Data API
 
-🔗 Repository: [Counter App Flutter]((https://github.com/hindhuja-712/FixForwardZypher.git))
+🔗 Repository: [Smart Agro](https://github.com/hindhuja-712/FixForwardZypher.git)
 ---
 
 ### 🔹 Flutter Food Ordering App 🍔
@@ -83,7 +83,7 @@ A modern Flutter-based food ordering application built to explore mobile app dev
 - Firebase Authentication
 - Material UI
 
-🔗 Repository: [Flutter Food App]((https://github.com/hindhuja-712/flutter_demo.git))
+🔗 Repository: [Flutter Food App](https://github.com/hindhuja-712/flutter_demo.git)
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=hindhuja-712&show_icons=true)
