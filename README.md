@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hindhuja
 
 🚀 Flutter Developer |Java Programmer| DSA Learner  
-🌱 Passionate about building apps and improving problem-solving skills  
+🌱 Passionate about building apps and improving problem-solving skills 
 
 ---
 
@@ -96,7 +96,7 @@ A modern Flutter-based food ordering application built to explore mobile app dev
 - 📌 Flutter App Development
 - 📌 Java Programming
 - 📌 Data Structures & Algorithms
-- 📌HTML & CSS
+- 📌 HTML & CSS
 
 ---
 
