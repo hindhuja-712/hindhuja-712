@@ -11,7 +11,7 @@
 
 ## 💻 Tech Stack
 - Java
-- C
+- C & C++
 - Dart
 - HTML & CSS
 - Javascript
