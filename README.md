@@ -13,6 +13,8 @@
 - Java
 - C
 - Dart
+- HTML & CSS
+- Javascript
 
 ---
 
@@ -93,7 +95,8 @@ A modern Flutter-based food ordering application built to explore mobile app dev
 ## 🔥 Current Focus 
 - 📌 Flutter App Development
 - 📌 Java Programming
-- 📌 Data Structures & Algorithms 
+- 📌 Data Structures & Algorithms
+- 📌HTML & CSS
 
 ---
 
