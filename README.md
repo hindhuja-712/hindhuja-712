@@ -1,60 +1,60 @@
 <div align="center">
 
-# 👋 Hey, I'm Hindhuja G.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hindhuja%20G.&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+
+# 👋 Hi, I'm Hindhuja
 
 ### `Aspiring Software Developer`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Java+Developer+%7C+DSA+Learner;Web+%26+Mobile+App+Development;Exploring+AI+%26+Modern+Technologies;Building+%7C+Learning+%7C+Improving" />
+<p>
+Building • Learning • Solving • Exploring
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Java+%7C+DSA+%7C+Web+Development;Flutter+%7C+Mobile+Development;Exploring+AI+%26+Modern+Technologies" />
 
 </div>
 
 ---
 
-<table>
+<table align="center">
 <tr>
 
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-## 🧑‍💻 Developer Profile
+## 👩‍💻 About Me
 
 🎓 **B.E. Electronics & Communication Engineering**
 
-🏫 Bannari Amman Institute of Technology
+🏫 **Bannari Amman Institute of Technology**
 
-💻 Interested in **Software Development**
+💻 Aspiring **Software Developer** passionate about building practical applications.
 
-🧠 Enjoy solving **programming problems**
+🧠 Interested in **problem solving, software development and modern technologies**.
 
-🚀 Building practical applications
-
-🤖 Exploring **AI-powered development**
-
-📈 Continuously improving my technical skills
+🚀 Currently expanding my skills across **Java, DSA, Web, Flutter and AI-powered tools**.
 
 </td>
 
-<td width="45%" valign="top">
+<td width="40%" valign="top">
 
-## ⚡ Quick Snapshot
+## ⚡ Developer Card
 
 ```text
-Role        → Aspiring Software Developer
-
-Primary     → Java
-
-Problem     → DSA
-
-Frontend    → HTML • CSS • JavaScript
-
-Mobile      → Flutter • Dart
-
-Database    → MySQL
-
-Backend     → Firebase
-
-Tools       → Git • GitHub • VS Code
-
-Deployment  → Vercel
+┌──────────────────────────┐
+│  HINDHUJA.G              │
+│  ──────────────────────  │
+│  Role                    │
+│  Software Developer      │
+│                          │
+│  Core                    │
+│  Java • DSA              │
+│                          │
+│  Building                │
+│  Web • Mobile Apps       │
+│                          │
+│  Exploring               │
+│  AI • Modern Tech        │
+└──────────────────────────┘
 ```
 
 </td>
@@ -64,117 +64,82 @@ Deployment  → Vercel
 
 ---
 
-# 🧰 My Developer Toolkit
+<div align="center">
+
+## 🧩 Developer Toolkit
+
+### `LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=java,c,cpp,dart,js" />
+
+<br><br>
+
+### `DEVELOPMENT`
+
+<img src="https://skillicons.dev/icons?i=html,css,flutter" />
+
+<br><br>
+
+### `DATA • BACKEND • TOOLS`
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,vercel" />
+
+</div>
+
+---
+
+## 🛠️ Technology Map
 
 <table align="center">
 <tr>
 
-<td align="center" width="20%">
+<td align="center" width="33%">
 
-### 💻
+### 💻 Programming
 
-**Languages**
+`Java`
 
-Java
-C
-C++
-Dart
-JavaScript
+`C`
 
-</td>
+`C++`
 
-<td align="center" width="20%">
+`Dart`
 
-### 🌐
-
-**Frontend**
-
-HTML
-CSS
-JavaScript
+`JavaScript`
 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="33%">
 
-### 📱
+### 🌐 Development
 
-**Framework**
+`HTML`
 
-Flutter
+`CSS`
 
-</td>
+`JavaScript`
 
-<td align="center" width="20%">
+`Flutter`
 
-### 🗄️
-
-**Database**
-
-MySQL
+`Dart`
 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="33%">
 
-### 🔥
+### 🗄️ Backend & Tools
 
-**Services**
+`MySQL`
 
-Firebase
+`Firebase`
 
-</td>
+`Git`
 
-</tr>
-</table>
+`GitHub`
 
-<br>
+`VS Code`
 
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-
-### 🔧
-
-**Development Tools**
-
-Git
-GitHub
-VS Code
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀
-
-**Deployment**
-
-Vercel
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**AI**
-
-AI Tools
-AI-assisted Development
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**Core**
-
-OOP
-DSA
-Problem Solving
+`Vercel`
 
 </td>
 
@@ -183,42 +148,30 @@ Problem Solving
 
 ---
 
-# 📚 Currently Exploring
+## 🧭 Currently Exploring
 
-<table>
+<table align="center">
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### ☕ Java
+### 🧠 Problem Solving
 
-* Core Java
-* OOP
-* Collections
-* Problem Solving
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🧠 DSA
-
-* Arrays
-* Strings
-* Hashing
-* Stack & Queue
+* Java
+* Data Structures
 * Algorithms
+* Competitive Programming
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🌐 Development
+### 🚀 Development
 
 * Web Development
 * Flutter
 * Mobile Applications
-* AI-powered Tools
+* AI-powered Development
 
 </td>
 
@@ -227,46 +180,59 @@ Problem Solving
 
 ---
 
-# 🏆 Milestones
+<div align="center">
+
+## 🏅 Milestones
+
+**HackUsElevate'26 — Finalist**   •  
+**NHIDE'26 — Finalist**
+
+<br>
+
+**Shaastra'26 — Analog Circuit Design Challenge — Finalist**
+
+<br>
+
+**India Innovates — Participant**
+
+</div>
+
+---
+
+## 🎯 What I'm Working Towards
 
 <table align="center">
 <tr>
 
-<td align="center" width="50%">
+<td align="center" width="25%">
 
-## 🥇 HackUsElevate'26
+### 01
 
-**Finalist**
-
-</td>
-
-<td align="center" width="50%">
-
-## 🥇 NHIDE'26
-
-**Finalist**
+**Learn**
 
 </td>
 
-</tr>
+<td align="center" width="25%">
 
-<tr>
+### 02
 
-<td align="center" width="50%">
-
-## 🏆 Shaastra'26
-
-**Analog Circuit Design Challenge**
-
-IIT Madras • **Finalist**
+**Practice**
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="25%">
 
-## 🌱 India Innovates
+### 03
 
-**Participant**
+**Build**
+
+</td>
+
+<td align="center" width="25%">
+
+### 04
+
+**Improve**
 
 </td>
 
@@ -275,60 +241,22 @@ IIT Madras • **Finalist**
 
 ---
 
-# 📊 GitHub Activity
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hindhuja-712&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hindhuja-712&layout=compact&theme=transparent&hide_border=true" height="170"/>
-
-</div>
-
----
-
-# 🔥 Consistency
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=hindhuja-712&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-# 🎯 My Goal
-
-<div align="center">
-
-### `Learn → Practice → Build → Improve`
-
-**Turning knowledge into practical solutions.**
-
-</div>
-
----
-
-# 🌐 Let's Connect
-
-<div align="center">
+## 🌐 Connect
 
 <a href="https://github.com/hindhuja-712">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:hindhuja0712@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-flat&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-### 💜 Thanks for visiting my profile!
-
-`Keep Learning. Keep Building. Keep Growing.`
+`Always learning. Always building.`
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
