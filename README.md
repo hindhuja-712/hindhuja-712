@@ -37,25 +37,35 @@ Building • Learning • Solving • Exploring
 
 <td width="40%" valign="top">
 
-## ⚡ Developer Card
+<div align="center">
 
-```text
-┌──────────────────────────┐
-│  HINDHUJA.G              │
-│  ──────────────────────  │
-│  Role                    │
-│  Software Developer      │
-│                          │
-│  Core                    │
-│  Java • DSA              │
-│                          │
-│  Building                │
-│  Web • Mobile Apps       │
-│                          │
-│  Exploring               │
-│  AI • Modern Tech        │
-└──────────────────────────┘
-```
+### ⚡ PROFILE
+
+<br>
+
+**SOFTWARE DEVELOPMENT**
+
+`Java` • `DSA`
+
+<br>
+
+**BUILDING WITH**
+
+`Web` • `Flutter`
+
+<br>
+
+**EXPLORING**
+
+`AI` • `Modern Tech`
+
+<br>
+
+**MINDSET**
+
+`Learn` → `Build` → `Improve`
+
+</div>
 
 </td>
 
@@ -80,7 +90,7 @@ Building • Learning • Solving • Exploring
 
 <br><br>
 
-### `DATA • BACKEND • TOOLS`
+### `DATA • SERVICES • TOOLS`
 
 <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,vercel" />
 
@@ -93,9 +103,11 @@ Building • Learning • Solving • Exploring
 <table align="center">
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 ### 💻 Programming
+
+<br>
 
 `Java`
 
@@ -109,9 +121,11 @@ Building • Learning • Solving • Exploring
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 ### 🌐 Development
+
+<br>
 
 `HTML`
 
@@ -125,9 +139,11 @@ Building • Learning • Solving • Exploring
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
-### 🗄️ Backend & Tools
+### 🧰 Tools & Services
+
+<br>
 
 `MySQL`
 
@@ -155,23 +171,37 @@ Building • Learning • Solving • Exploring
 
 <td width="50%" valign="top">
 
-### 🧠 Problem Solving
+<div align="center">
 
-* Java
-* Data Structures
-* Algorithms
-* Competitive Programming
+### 🧠 PROBLEM SOLVING
+
+`Java`
+
+`Data Structures`
+
+`Algorithms`
+
+`Competitive Programming`
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🚀 Development
+<div align="center">
 
-* Web Development
-* Flutter
-* Mobile Applications
-* AI-powered Development
+### 🚀 DEVELOPMENT
+
+`Web Development`
+
+`Flutter`
+
+`Mobile Applications`
+
+`AI-powered Development`
+
+</div>
 
 </td>
 
@@ -184,60 +214,95 @@ Building • Learning • Solving • Exploring
 
 ## 🏅 Milestones
 
-**HackUsElevate'26 — Finalist**   •  
-**NHIDE'26 — Finalist**
+`Hack Elevate'26 — Finalist`
+  •  
+`NHIDE'26 — Finalist`
 
 <br>
 
-**Shaastra'26 — Analog Circuit Design Challenge — Finalist**
+`Shaastra'26 — Analog Circuit Design Challenge — Finalist`
 
 <br>
 
-**India Innovates — Participant**
+`India Innovates — Participant`
 
 </div>
 
 ---
 
-## 🎯 What I'm Working Towards
+# 🎯 My Growth Path
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
 
 <td align="center" width="25%">
 
-### 01
+### 💡
 
-**Learn**
+**EXPLORE**
+
+Discover new
+technologies
+
+</td>
+
+<td align="center">
+
+➜
 
 </td>
 
 <td align="center" width="25%">
 
-### 02
+### 🧠
 
-**Practice**
+**LEARN**
+
+Strengthen
+technical skills
+
+</td>
+
+<td align="center">
+
+➜
 
 </td>
 
 <td align="center" width="25%">
 
-### 03
+### 🛠️
 
-**Build**
+**BUILD**
+
+Turn ideas
+into applications
+
+</td>
+
+<td align="center">
+
+➜
 
 </td>
 
 <td align="center" width="25%">
 
-### 04
+### 🚀
 
-**Improve**
+**GROW**
+
+Improve through
+experience
 
 </td>
 
 </tr>
 </table>
+
+</div>
 
 ---
 
