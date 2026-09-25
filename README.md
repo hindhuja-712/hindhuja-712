@@ -1,47 +1,61 @@
-<h1 align="center">Hi 👋, I'm Hindhuja G.</h1>
+<div align="center">
 
-<h3 align="center">
-  Aspiring Software Developer
-</h3>
+# 👋 Hey, I'm Hindhuja G.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+%7C+DSA+%7C+Web+Development;Flutter+%7C+Mobile+App+Development;AI+%26+Modern+Technologies;Code+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Grow" />
-</p>
+### `Aspiring Software Developer`
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Java+Developer+%7C+DSA+Learner;Web+%26+Mobile+App+Development;Exploring+AI+%26+Modern+Technologies;Building+%7C+Learning+%7C+Improving" />
+
+</div>
 
 ---
 
-<table align="center">
+<table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### 👩‍💻 About Me
+## 🧑‍💻 Developer Profile
 
 🎓 **B.E. Electronics & Communication Engineering**
 
-🏫 **Bannari Amman Institute of Technology**
+🏫 Bannari Amman Institute of Technology
 
-💡 Interested in **Software Development & Problem Solving**
+💻 Interested in **Software Development**
 
-🚀 Building practical and user-focused applications
+🧠 Enjoy solving **programming problems**
 
-📚 Always learning and exploring new technologies
+🚀 Building practical applications
+
+🤖 Exploring **AI-powered development**
+
+📈 Continuously improving my technical skills
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### 🧩 What I Do
+## ⚡ Quick Snapshot
 
-☕ **Java & DSA**
+```text
+Role        → Aspiring Software Developer
 
-🌐 **Web Development**
+Primary     → Java
 
-📱 **Flutter App Development**
+Problem     → DSA
 
-🤖 **AI-powered Technologies**
+Frontend    → HTML • CSS • JavaScript
 
-🛠️ **Real-World Application Development**
+Mobile      → Flutter • Dart
+
+Database    → MySQL
+
+Backend     → Firebase
+
+Tools       → Git • GitHub • VS Code
+
+Deployment  → Vercel
+```
 
 </td>
 
@@ -50,87 +64,94 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🧰 My Developer Toolkit
 
-### 💻 Languages
+<table align="center">
+<tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,c,cpp,dart,js" />
-</p>
+<td align="center" width="20%">
 
-### 🎨 Frontend
+### 💻
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+**Languages**
 
-### 📱 Framework
+Java
+C
+C++
+Dart
+JavaScript
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter" />
-</p>
+</td>
 
-### 🗄️ Database
+<td align="center" width="20%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+### 🌐
 
-### 🔥 Backend & Services
+**Frontend**
 
-<p>
-<img src="https://skillicons.dev/icons?i=firebase" />
-</p>
+HTML
+CSS
+JavaScript
 
-### 🛠️ Tools & Platforms
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-</p>
+<td align="center" width="20%">
 
-### 🤖 AI & Modern Technologies
+### 📱
 
-<p align="left">
+**Framework**
 
-<img src="https://img.shields.io/badge/AI%20Tools-Exploring-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Powered%20Development-Exploring-000000?style=for-the-badge"/>
+Flutter
 
-</p>
+</td>
 
----
+<td align="center" width="20%">
 
-## 🧠 What I'm Learning
+### 🗄️
+
+**Database**
+
+MySQL
+
+</td>
+
+<td align="center" width="20%">
+
+### 🔥
+
+**Services**
+
+Firebase
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <table align="center">
 <tr>
 
 <td align="center" width="25%">
 
-### ☕
+### 🔧
 
-**Java**
+**Development Tools**
 
-Core Java • OOP
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**DSA**
-
-Problem Solving
+Git
+GitHub
+VS Code
 
 </td>
 
 <td align="center" width="25%">
 
-### 🌐
+### 🚀
 
-**Web Development**
+**Deployment**
 
-HTML • CSS • JavaScript
+Vercel
 
 </td>
 
@@ -140,7 +161,20 @@ HTML • CSS • JavaScript
 
 **AI**
 
-AI-powered Tools
+AI Tools
+AI-assisted Development
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**Core**
+
+OOP
+DSA
+Problem Solving
 
 </td>
 
@@ -149,111 +183,90 @@ AI-powered Tools
 
 ---
 
-## 🏆 Achievements
+# 📚 Currently Exploring
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### ☕ Java
+
+* Core Java
+* OOP
+* Collections
+* Problem Solving
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧠 DSA
+
+* Arrays
+* Strings
+* Hashing
+* Stack & Queue
+* Algorithms
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌐 Development
+
+* Web Development
+* Flutter
+* Mobile Applications
+* AI-powered Tools
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🏆 Milestones
 
 <table align="center">
 <tr>
 
 <td align="center" width="50%">
 
-🏅 **HackUsElevate'26**
+## 🥇 HackUsElevate'26
 
-Finalist
-
-</td>
-
-<td align="center" width="50%">
-
-🏅 **NHIDE'26**
-
-Finalist
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="50%">
-
-🏆 **Analog Circuit Design Challenge**
-
-Shaastra'26 • IIT Madras
 **Finalist**
 
 </td>
 
 <td align="center" width="50%">
 
-🌱 **India Innovates**
+## 🥇 NHIDE'26
 
-Participant
+**Finalist**
 
 </td>
 
 </tr>
-</table>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hindhuja-712&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hindhuja-712&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=hindhuja-712&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 💡 My Development Mindset
-
-<table align="center">
 <tr>
 
-<td align="center">
+<td align="center" width="50%">
 
-💡<br>
-**Think**
+## 🏆 Shaastra'26
 
-</td>
+**Analog Circuit Design Challenge**
 
-<td>→</td>
-
-<td align="center">
-
-🛠️<br>
-**Build**
+IIT Madras • **Finalist**
 
 </td>
 
-<td>→</td>
+<td align="center" width="50%">
 
-<td align="center">
+## 🌱 India Innovates
 
-🧪<br>
-**Learn**
-
-</td>
-
-<td>→</td>
-
-<td align="center">
-
-🚀<br>
-**Improve**
+**Participant**
 
 </td>
 
@@ -262,26 +275,60 @@ Participant
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Activity
 
-<p align="center">
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hindhuja-712&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hindhuja-712&layout=compact&theme=transparent&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+# 🔥 Consistency
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=hindhuja-712&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+# 🎯 My Goal
+
+<div align="center">
+
+### `Learn → Practice → Build → Improve`
+
+**Turning knowledge into practical solutions.**
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
 
 <a href="https://github.com/hindhuja-712">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-flat&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:hindhuja0712@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-flat&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
----
+<br>
 
-<p align="center">
+<div align="center">
 
-### 🚀 Code • Build • Learn • Grow
+### 💜 Thanks for visiting my profile!
 
-⭐ Thanks for visiting my profile!
+`Keep Learning. Keep Building. Keep Growing.`
 
-</p>
+</div>
