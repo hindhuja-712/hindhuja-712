@@ -1,174 +1,287 @@
-# 👋 Hi, I'm Hindhuja G.
+<h1 align="center">Hi 👋, I'm Hindhuja G.</h1>
 
-### 💻 Aspiring Software Developer | Java & DSA | Web Development | Mobile App Development
-
-I'm a **3rd-year B.E. Electronics and Communication Engineering student** at **Bannari Amman Institute of Technology**.
-
-I enjoy solving programming problems, building practical applications, and exploring modern technologies. Currently, I'm focusing on **Java, Data Structures & Algorithms, Web Development, Flutter App Development and AI-powered tools**.
+<h3 align="center">
+  Aspiring Software Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Code+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Improve;Java+%E2%80%A2+DSA+%E2%80%A2+Web+Development;Always+Learning+Something+New+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+%7C+DSA+%7C+Web+Development;Flutter+%7C+Mobile+App+Development;AI+%26+Modern+Technologies;Code+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Grow" />
 </p>
 
 ---
 
-## 🚀 About Me
+<table align="center">
+<tr>
 
-* 🎓 B.E. Electronics and Communication Engineering
-* 🏫 Bannari Amman Institute of Technology
-* ☕ Practicing **Java & Data Structures and Algorithms**
-* 🌐 Building projects with **HTML, CSS & JavaScript**
-* 🤖 Exploring **AI tools and AI-powered applications**
-* 🧩 Regularly practicing coding problems
-* 💡 Interested in Software Development and Web Development
-* 🎯 Preparing for software/IT placements
+<td width="50%" valign="top">
+
+### 👩‍💻 About Me
+
+🎓 **B.E. Electronics & Communication Engineering**
+
+🏫 **Bannari Amman Institute of Technology**
+
+💡 Interested in **Software Development & Problem Solving**
+
+🚀 Building practical and user-focused applications
+
+📚 Always learning and exploring new technologies
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧩 What I Do
+
+☕ **Java & DSA**
+
+🌐 **Web Development**
+
+📱 **Flutter App Development**
+
+🤖 **AI-powered Technologies**
+
+🛠️ **Real-World Application Development**
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,dart,js" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,dart,js" />
 </p>
 
-### Web Development
+### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### Database & Tools
+### 📱 Framework
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=flutter" />
 </p>
 
-### Frameworks & Platforms
+### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🔥 Backend & Services
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+### 🤖 AI & Modern Technologies
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/AI%20Tools-Exploring-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Powered%20Development-Exploring-000000?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 💻 Featured Projects
+## 🧠 What I'm Learning
 
-### 🛠️ AI-Powered Smart Farming System for Crop Monitoring Disease Detection
+<table align="center">
+<tr>
 
-A technology project developed to address a practical real-world problem.
+<td align="center" width="25%">
 
-**Tech:** Flutter • Firebase • AI/ML Concepts
+### ☕
 
-🔗 **Repository:**
-https://github.com/hindhuja-712/FixForwardZypher
+**Java**
 
----
+Core Java • OOP
 
-### 📱 Flutter Food Ordering App
+</td>
 
-A Flutter-based food ordering application built to explore mobile application development, authentication, navigation, and responsive UI.
+<td align="center" width="25%">
 
-**Tech:** Flutter • Dart • Firebase
+### 🧠
 
-🔗 **Repository:**
-https://github.com/hindhuja-712/flutter_demo
+**DSA**
 
----
+Problem Solving
 
-### 🔐 Flutter Counter App with Firebase Authentication
+</td>
 
-A Flutter application developed to explore UI development, navigation, state management, and Firebase integration.
+<td align="center" width="25%">
 
-**Features:**
+### 🌐
 
-* 🔐 Firebase Authentication
-* 🔑 Forgot Password
-* 🔢 Counter operations
-* 🔍 Google Sign-In
-* 🎨 Modern UI
-* 📱 Responsive design
+**Web Development**
 
-**Tech:** Flutter • Dart • Firebase
+HTML • CSS • JavaScript
 
-🔗 **Repository:**
-https://github.com/hindhuja-712/counter_app_beginner
+</td>
 
----
+<td align="center" width="25%">
 
-## 🧠 Problem Solving
+### 🤖
 
-I regularly practice **Data Structures & Algorithms** to strengthen my problem-solving and logical thinking skills.
+**AI**
+
+AI-powered Tools
+
+</td>
+
+</tr>
+</table>
+
 ---
 
 ## 🏆 Achievements
 
-* 🏅 **Finalist – Analog Circuit Design Challenge, Shaastra'26, IIT Madras**
-* 🏆 **Finalist – Hack Elevate'26**
-* 🏆 **Finalist – NHIDE'26**
-* 🌍 **Participant – India Innovates**
-* 💻 Consistent practice in **Data Structures & Algorithms**
-* 📚 Completed multiple programming and technical skill levels
+<table align="center">
+<tr>
+
+<td align="center" width="50%">
+
+🏅 **HackUsElevate'26**
+
+Finalist
+
+</td>
+
+<td align="center" width="50%">
+
+🏅 **NHIDE'26**
+
+Finalist
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+🏆 **Analog Circuit Design Challenge**
+
+Shaastra'26 • IIT Madras
+**Finalist**
+
+</td>
+
+<td align="center" width="50%">
+
+🌱 **India Innovates**
+
+Participant
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Stats
 
-```text
-Java
- ├── OOP
- ├── Collections
- └── Problem Solving
+<p align="center">
 
-DSA
- ├── Data Structures
- └── Algorithms
+<img src="https://github-readme-stats.vercel.app/api?username=hindhuja-712&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-Web Development
- ├── HTML
- ├── CSS
- └── JavaScript
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hindhuja-712&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
-AI
- ├── AI Tools
- └── AI-powered Applications
-```
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Strengthen Java & DSA fundamentals
-* 🧩 Solve more coding problems
-* 🌐 Build modern web applications
-* 🤖 Explore practical AI applications
-* 💼 Prepare for software development placements
-* 📚 Keep learning and building consistently
-
----
-
-## 📫 Connect With Me
-
-<p>
-  <a href="mailto:hindhuja0712@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hindhuja0712%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/hindhuja-712">
-    <img src="https://img.shields.io/badge/GitHub-hindhuja--712-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-## ⚡ A Little About Me
+## 🔥 GitHub Streak
 
-> **Learn. Build. Solve. Repeat. 🚀**
+<p align="center">
 
-I believe consistent practice and building real projects are the best ways to improve as a developer.
+<img src="https://streak-stats.demolab.com?user=hindhuja-712&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 💡 My Development Mindset
+
+<table align="center">
+<tr>
+
+<td align="center">
+
+💡<br>
+**Think**
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+🛠️<br>
+**Build**
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+🧪<br>
+**Learn**
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+🚀<br>
+**Improve**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/hindhuja-712">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:hindhuja0712@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+
+### 🚀 Code • Build • Learn • Grow
+
+⭐ Thanks for visiting my profile!
+
 </p>
