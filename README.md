@@ -55,7 +55,7 @@ I enjoy solving programming problems, building practical applications, and explo
 
 ## 💻 Featured Projects
 
-### 🛠️ FixForward
+### 🛠️ AI-Powered Smart Farming System for Crop Monitoring Disease Detection
 
 A technology project developed to address a practical real-world problem.
 
@@ -100,10 +100,6 @@ https://github.com/hindhuja-712/counter_app_beginner
 ## 🧠 Problem Solving
 
 I regularly practice **Data Structures & Algorithms** to strengthen my problem-solving and logical thinking skills.
-
-🔗 **LeetCode:**
-https://leetcode.com/
-
 ---
 
 ## 🏆 Achievements
