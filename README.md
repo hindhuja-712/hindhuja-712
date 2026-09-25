@@ -1,71 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hindhuja%20G.&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:5B21B6,100:00C6FF&height=190&section=header&text=Hindhuja%20G.&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 
 # 👋 Hi, I'm Hindhuja
 
 ### `Aspiring Software Developer`
 
-<p>
-Building • Learning • Solving • Exploring
-</p>
+`Building` • `Learning` • `Solving` • `Exploring`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Java+%7C+DSA+%7C+Web+Development;Flutter+%7C+Mobile+Development;Exploring+AI+%26+Modern+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Java+%7C+DSA+%7C+Web+Development;Flutter+%7C+Mobile+Development;Exploring+AI+%26+Modern+Technologies"/>
 
 </div>
 
 ---
-
-<table align="center">
-<tr>
-
-<td width="60%" valign="top">
 
 ## 👩‍💻 About Me
 
-🎓 **B.E. Electronics & Communication Engineering**
+<table>
+<tr>
 
-🏫 **Bannari Amman Institute of Technology**
+<td width="65%" valign="top">
 
-💻 Aspiring **Software Developer** passionate about building practical applications.
+🎓 **B.E. Electronics & Communication Engineering** student at **Bannari Amman Institute of Technology**.
 
-🧠 Interested in **problem solving, software development and modern technologies**.
+💻 Exploring **Software Development** with a strong interest in building useful and practical solutions.
 
-🚀 Currently expanding my skills across **Java, DSA, Web, Flutter and AI-powered tools**.
+🧠 Currently strengthening my skills in **Java, DSA, Web Development and Flutter**.
+
+🚀 Learning by **solving problems, building projects and experimenting with new technologies**.
+
+🌱 Always curious to learn, improve and turn ideas into something meaningful.
 
 </td>
 
-<td width="40%" valign="top">
+<td width="35%" align="center">
 
-<div align="center">
-
-### ⚡ PROFILE
-
-<br>
-
-**SOFTWARE DEVELOPMENT**
+### ⚡ CURRENT FOCUS
 
 `Java` • `DSA`
 
-<br>
+`Flutter` • `Web`
 
-**BUILDING WITH**
-
-`Web` • `Flutter`
+`Firebase` • `AI`
 
 <br>
 
-**EXPLORING**
-
-`AI` • `Modern Tech`
-
-<br>
-
-**MINDSET**
-
-`Learn` → `Build` → `Improve`
-
-</div>
+**Learn → Build → Improve**
 
 </td>
 
@@ -74,241 +54,81 @@ Building • Learning • Solving • Exploring
 
 ---
 
+## 🧩 Tech Stack
+
 <div align="center">
 
-## 🧩 Developer Toolkit
+### Languages
 
-### `LANGUAGES`
+<img src="https://skillicons.dev/icons?i=java,c,cpp,dart,js&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp,dart,js" />
+### Development
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=html,css,flutter&theme=dark"/>
 
-### `DEVELOPMENT`
+### Tools & Services
 
-<img src="https://skillicons.dev/icons?i=html,css,flutter" />
-
-<br><br>
-
-### `DATA • SERVICES • TOOLS`
-
-<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,vercel&theme=dark"/>
 
 </div>
 
 ---
 
-## 🛠️ Technology Map
-
-<table align="center">
-<tr>
-
-<td align="center" width="33%" valign="top">
-
-### 💻 Programming
-
-<br>
-
-`Java`
-
-`C`
-
-`C++`
-
-`Dart`
-
-`JavaScript`
-
-</td>
-
-<td align="center" width="33%" valign="top">
-
-### 🌐 Development
-
-<br>
-
-`HTML`
-
-`CSS`
-
-`JavaScript`
-
-`Flutter`
-
-`Dart`
-
-</td>
-
-<td align="center" width="33%" valign="top">
-
-### 🧰 Tools & Services
-
-<br>
-
-`MySQL`
-
-`Firebase`
-
-`Git`
-
-`GitHub`
-
-`VS Code`
-
-`Vercel`
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🧭 Currently Exploring
-
-<table align="center">
-<tr>
-
-<td width="50%" valign="top">
+## 🚀 Currently Exploring
 
 <div align="center">
 
-### 🧠 PROBLEM SOLVING
+<img src="https://skillicons.dev/icons?i=java,dart,flutter,firebase&theme=dark"/>
 
-`Java`
+<br>
 
-`Data Structures`
-
-`Algorithms`
-
-`Competitive Programming`
+`Problem Solving` • `Web Development` • `Mobile Development` • `AI-powered Development`
 
 </div>
 
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🚀 DEVELOPMENT
-
-`Web Development`
-
-`Flutter`
-
-`Mobile Applications`
-
-`AI-powered Development`
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
 ---
 
+## 🏆 Milestones
+
 <div align="center">
 
-## 🏅 Milestones
-
-`Hack Elevate'26 — Finalist`
+`HackUsElevate'26 — Finalist`
   •  
 `NHIDE'26 — Finalist`
-
-<br>
-
-`Shaastra'26 — Analog Circuit Design Challenge — Finalist`
-
-<br>
-
+  •  
+`Shaastra'26 — Finalist`
+  •  
 `India Innovates — Participant`
 
 </div>
 
 ---
 
-# 🎯 My Growth Path
+## 🎯 Growth Path
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 💡
-
-**EXPLORE**
-
-Discover new
-technologies
-
-</td>
-
-<td align="center">
-
-➜
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**LEARN**
-
-Strengthen
-technical skills
-
-</td>
-
-<td align="center">
-
-➜
-
-</td>
-
-<td align="center" width="25%">
-
-### 🛠️
-
-**BUILD**
-
-Turn ideas
-into applications
-
-</td>
-
-<td align="center">
-
-➜
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀
-
-**GROW**
-
-Improve through
-experience
-
-</td>
-
-</tr>
-</table>
+**💡 Explore** → **🧠 Learn** → **🛠️ Build** → **🚀 Grow**
 
 </div>
 
 ---
 
+## 📊 GitHub Journey
+
 <div align="center">
 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hindhuja-712&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=808080"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hindhuja-712&hide_border=true&theme=transparent&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"/>
+
+</div>
+
+---
+
 ## 🌐 Connect
+
+<div align="center">
 
 <a href="https://github.com/hindhuja-712">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -318,10 +138,10 @@ experience
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 `Always learning. Always building.`
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:5B21B6,100:00C6FF&height=90&section=footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
